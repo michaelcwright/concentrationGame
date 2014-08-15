@@ -1,6 +1,8 @@
 Concentration javascript game
 =================
 
+The user will try to match the letters in certain amount of time
+
 Future update
 ====
 
