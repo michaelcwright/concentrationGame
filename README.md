@@ -1,11 +1,6 @@
 Concentration javascript game
 =================
 
-Guide
-====
-
-The user will try to match the laters in certain amount of time
-
 Future update
 ====
 
