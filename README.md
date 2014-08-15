@@ -1,7 +1,9 @@
 Concentration javascript game
 =================
 
-The user will try to match the letters in certain amount of time
+The user will have a time to memorize the letters. 
+
+After countdown user will match the letters
 
 Future update
 ====
