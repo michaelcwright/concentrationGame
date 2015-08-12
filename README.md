@@ -9,3 +9,5 @@ Future update
 ====
 
 The arrays will be randomized so the user will get a different outcome everytime
+
+***Check out Concentration Game 2.0 ***
